@@ -18,12 +18,12 @@ jsonschema-specifications==2023.11.2
 jupyter_client==8.6.0
 jupyter_core==5.5.0
 kiwisolver==1.4.5
-matplotlib==3.8.2
-matplotlib-inline==0.1.6
+#matplotlib==3.8.2
+#matplotlib-inline==0.1.6
 nbclient==0.9.0
 nbformat==5.9.2
 nest-asyncio==1.5.8
-numpy==1.26.2
+#numpy==1.26.2
 packaging==23.2
 parso==0.8.3
 pexpect==4.9.0
@@ -38,7 +38,7 @@ pyparsing==3.1.1
 python-dateutil==2.8.2
 PyYAML==6.0.1
 pyzmq==25.1.2
-quarto==0.1.0
+#quarto==0.1.0
 referencing==0.31.1
 rpds-py==0.13.2
 six==1.16.0
